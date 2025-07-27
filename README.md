@@ -29,10 +29,20 @@ This repository is a collection of self-study notes and experiments where I revi
 
 Each notebook explores concepts both mathematically and visually, including:
 
-- ✅ Qubit representation and Bloch sphere
-- ✅ Quantum gates (Hadamard, Pauli, Rotation, U3, etc.)
-- ✅ Measurement and projection
-- 🔜 Entanglement and Bell states
-- 🔜 Quantum circuits and QML examples
+- ✅ Qubit representation and Bloch sphere  
+- ✅ Quantum gates (Hadamard, Pauli, Rotation, U3, etc.)  
+- ✅ Measurement and projection into classical states  
+- ✅ Visualization of quantum states using Qiskit  
+- ✅ Basic circuit construction and measurement  
+
+---
+
+## 🔜 Coming Next
+
+- 🔜 Entanglement and Bell states  
+- 🔜 Multi-qubit circuits and control gates (e.g. CNOT)  
+- 🔜 Quantum convolutional layers and pooling operators  
+- 🔜 Variational quantum circuits (VQCs)  
+- 🔜 QML models for classification tasks  
 
 ---
