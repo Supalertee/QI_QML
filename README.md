@@ -1,8 +1,8 @@
 # Quantum Information & QML Notes
 
-Hi, I’m **Supalert Sukrakarn**, a theoretical physicist with a strong background in quantum mechanics, quantum field theory, and many-body systems. After working in academic research, I’ve transitioned my interest toward **Quantum Information (QI)** and **Quantum Machine Learning (QML)**.
+I’m **Supalert Sukrakarn**, a theoretical physicist who stepped out of academia about a year ago. Recently, I’ve found myself missing the beauty and depth of quantum mechanics — especially how it connects to modern tools like **Quantum Information (QI)** and **Quantum Machine Learning (QML)**.
 
-This repository is a personal learning journal, where I review quantum theory from scratch while bridging it with modern quantum computing tools like **Qiskit** and **PennyLane**.
+This repository is a collection of self-study notes and experiments where I revisit quantum theory and explore its computational side through packages like **Qiskit** and **PennyLane**.
 
 ---
 
